@@ -1,2 +1,2 @@
 # Coding-1-Final
- These are the starter files for S2021 Coding 1
+ My website has some pictures of baseball fields and players inside of the carousel on the home page of the website. It also shows my logo. If you click on the "About" link, it should take you to my about page which describes me and what I like to do, and what I have thought of this class. It has a beige background color with the text being cadet blue and bold. It also shows a picture of me and my father at a football game. If you click on the "Contact" link, it should take you to the contact page which explains how to contact me by showing a phone number and email.
