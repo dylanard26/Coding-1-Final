@@ -1,0 +1,29 @@
+body{
+    background-color: beige;
+}
+.title{
+    color: cadetblue;
+    font-weight: bold;
+    font-style:normal;
+}
+p{
+    color: cadetblue;
+    font-weight: bold;
+    font-style: italic;
+}
+.me{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.contact{
+    color:cadetblue;
+    font-weight: bold;
+    font-style: normal;
+}
+h5{
+    color: cadetblue;
+    font-weight: bold;
+    font-style: italic;
+}
